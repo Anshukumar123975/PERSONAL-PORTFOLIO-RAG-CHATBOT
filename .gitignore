@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+.env
+index2.js.txt
+index3.js.txt
+index4.js.txt

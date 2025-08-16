@@ -1,0 +1,34 @@
+My name is Anshu Kumar, currently pursuing B.Tech in Computer Science and Engineering at the Indian Institute of Information Technology, Ranchi (2023–2027), a third year student.
+I am passionate about AI/ML integrations, backend-development and open-source contributions.
+
+Work Experience:
+- Google Summer of Code 2025 Contributor at Accord Project (Linux Foundation)
+  Developed a Specification Conformance Test Suite for validating multiple runtime implementations of Concerto.
+  Integrated the test suite with CI/CD pipelines, improving runtime stability and maintainability.
+
+Personal Projects:
+1. GitHub Repo Summarizer
+   - Backend microservice summarizing GitHub repositories using Groq LLM.
+   - 2x faster performance with reduced API costs.
+
+2. Distributed Task Queue Image Resizer
+   - Scalable backend for processing multiple image jobs using BullMQ and Worker Threads.
+
+Technical Skills:
+- Languages: JavaScript, C++
+- Backend: Node.js, Express.js, BullMQ
+- Databases: MongoDB, Redis
+- Deployment: Vercel, Render
+- CI/CD: GitHub Actions, Pipelines
+- Testing: Cucumber.js, Vitest
+
+Achievements:
+- GSoC 2025 Contributor
+- 1st Prize in INTERNLAY Hackathon
+- CodeChef 3-star (1651 peak rating)
+
+Links:
+Portfolio: https://portfolio-ecru-theta-62.vercel.app/
+GitHub: https://github.com/Anshukumar123975
+LinkedIn: https://www.linkedin.com/in/anshu-kumar-2117b827b/
+Mail: anshupat2020@gmail.com
